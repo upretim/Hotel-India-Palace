@@ -1,0 +1,41 @@
+#navbar h1 {
+  float: none;
+  padding-top: 20px;
+  text-align: center;
+}
+
+#navbar ul {
+  float: none;
+}
+
+#navbar ul li {
+  float: none;
+}
+
+#navbar ul li a {
+  padding: 5px;
+}
+
+#home-info .info-img {
+  float: none;
+  width: 0%;
+  display: none;
+}
+
+#home-info .info-content {
+  float: none;
+  width: 100%;
+  display: block;
+  min-height: fit-content;
+}
+
+.box {
+  float: none;
+  width: 100%;
+  padding: 50px;
+  text-align: center;
+}
+
+#contact-info .box {
+  border-bottom: 1px dotted;
+}
