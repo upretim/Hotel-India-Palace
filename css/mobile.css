@@ -39,3 +39,14 @@
 #contact-info .box {
   border-bottom: 1px dotted;
 }
+
+/*about page*/
+#about-info .info-right,
+#about-info .info-left {
+  float: none;
+  width: 100%;
+}
+
+.l-heading {
+  text-align: center;
+}
